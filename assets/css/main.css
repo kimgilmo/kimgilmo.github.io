@@ -328,7 +328,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 13.33333%;
 		}
 
 		.row > .off-4 {
@@ -1184,8 +1184,8 @@ input, select, textarea {
 						}
 
 				.row {
-					margin-top: -20px;
-					margin-left: -20px;
+					margin-top: -60px;
+					margin-left: 40px;
 				}
 
 					.row > * {
@@ -1987,12 +1987,11 @@ input, select, textarea {
 		.item header {
 			background: #fff;
 			margin: 0;
-			padding: 1em 0 1em 0;
 			font-size: 0.8em;
 		}
 
 			.item header h3 {
-				font-size: 1em;
+				font-size: 0.9em;
 			}
 
 /* Icons */
